@@ -1,0 +1,59 @@
+id: PAA9AA3C2
+initial_creation_type: input
+source_metadata:
+  title: Works of Rongtön Shakya Gyaltsen
+  parent: 2. Collected works
+  source: https://sakyalibrary.com
+  bases:
+    0c93:
+      title: ཚད་མ་རིགས་པའི་གཏེར་གྱི་རྣམ་བཤད་ཉི་མའི་སྙིང་པོ།
+      author: རོང་སྟོན་ཤཱཀྱ་རྒྱལ་མཚན།
+      base_file: 0c93.txt
+      order: 1
+    d8f9:
+      title: སྒོམ་རིམ་དང་པོའི་འགྲེལ་པ་ཞི་ལྷག་གསལ་བར་བྱེད་པའི་རྒྱན།
+      author: རོང་སྟོན་ཤཱཀྱ་རྒྱལ་མཚན།
+      base_file: d8f9.txt
+      order: 2
+    dcde:
+      title: སྒོམ་རིམ་བར་པའི་འགྲེལ་པ་གནད་ཀྱི་ཟླ་ཟེར།
+      author: རོང་སྟོན་ཤཱཀྱ་རྒྱལ་མཚན།
+      base_file: dcde.txt
+      order: 3
+    eb2e:
+      title: སྒོམ་རིམ་ཐ་མའི་འགྲེལ་པ་ལྷའི་རྔ་སྒྲ།
+      author: རོང་སྟོན་ཤཱཀྱ་རྒྱལ་མཚན།
+      base_file: eb2e.txt
+      order: 4
+    b6b5:
+      title: གསུང་འབུམ་ཐོར་བུའི་དཀར་ཆག་དཔག་བསམ་ལྗོན་པ།
+      author: རོང་སྟོན་ཤཱཀྱ་རྒྱལ་མཚན།
+      base_file: b6b5.txt
+      order: 5
+    e6f1:
+      title: རོང་སྟོན་ཐམས་ཅད་མཁྱེན་པའི་གསུང་འབུམ་ཐོར་བུ་ལས་བསྟོད་ཚོགས་ཀྱི་སྐོར།
+      author: རོང་སྟོན་ཤཱཀྱ་རྒྱལ་མཚན།
+      base_file: e6f1.txt
+      order: 6
+    a7a1:
+      title: སྒོམ་ཁྲིད་མན་ངག་གི་སྐོར།
+      author: རོང་སྟོན་ཤཱཀྱ་རྒྱལ་མཚན།
+      base_file: a7a1.txt
+      order: 7
+    4a53:
+      title: རྣམ་ངེས་རྣམ་བཤད་རྟོག་གེའི་སྣང་བ།
+      author: རོང་སྟོན་ཤཱཀྱ་རྒྱལ་མཚན།
+      base_file: 4a53.txt
+      order: 8
+    600e:
+      title: ཚད་མ་རྣམ་པར་ངེས་པའི་རང་དོན་ལེའུའི་རྣམ་བཤད།
+      author: རོང་སྟོན་ཤཱཀྱ་རྒྱལ་མཚན།
+      base_file: 600e.txt
+      order: 9
+    ae11:
+      title: ཚད་མ་རྣམ་པར་ངེས་པའི་གཞན་གྱི་དོན་གྱི་རྗེས་སུ་དཔག་པ་སྟེ་ལེའུ་གསུམ་པའི་བཤད་པའོ།།
+      author: རོང་སྟོན་ཤཱཀྱ་རྒྱལ་མཚན།
+      base_file: ae11.txt
+      order: 10
+created_at: '2022-04-06T16:59:58.586521'
+last_modified_at: '2022-04-06T16:59:58.586532'
